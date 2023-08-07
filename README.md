@@ -141,7 +141,7 @@
         - hexedit Leave_me_alone.png
         - Paste signature png
             
-            ![Untitled](Untitled.png)
+            ![Untitled](Lian_Yu%2043e457942bfd4ed8a7d9a354cd8815f4/Untitled.png)
             
         - Save
     
