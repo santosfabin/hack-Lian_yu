@@ -28,8 +28,7 @@
     ```
     
     > 2100
-    > 
-    - <!-- you can avail your .ticket here but how? -→
+    > -- you can avail your .ticket here but how? -- 
 
 ---
 
